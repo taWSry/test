@@ -6,4 +6,6 @@ test git
 333  
 444  
 
-test2
+test2  
+---stash---  
+
